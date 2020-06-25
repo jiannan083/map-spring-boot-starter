@@ -42,7 +42,7 @@ public class BaiduMapUtils {
      * @return {@link GeoResult}
      */
     public GeoResult geocoder(String address, String city) {
-        Assert.hasLength(address, "地址信息不能为为空");
+        Assert.hasText(address, "地址信息不能为为空");
         Map<String, String> paramMap = new HashMap<>();
         paramMap.put("address", address);
         if (city != null) {
