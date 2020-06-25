@@ -17,7 +17,7 @@ Step 2. Add the dependency
 	    <version>Tag</version>
 	</dependency>
 ```
-## 2.0.1
+## 2.0.2
 基于springboot 2.1.6.RELEASE  
 
 百度  
