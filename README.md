@@ -1,5 +1,5 @@
 # map-spring-boot-starter
-使用：  
+## 使用：  
 Step 1. Add the JitPack repository to your build file  
 ```
 	<repositories>
@@ -10,13 +10,14 @@ Step 1. Add the JitPack repository to your build file
 	</repositories> 
 ```
 Step 2. Add the dependency  
-\<dependency\>  
-    \<groupId\>com.github.jiannan083\</groupId\>  
-    \<artifactId\>map-spring-boot-starter\</artifactId\>  
-    \<version\>Tag\</version\>  
-\</dependency\>  
-
-# V2.0.0
+```
+	<dependency>
+	    <groupId>com.github.jiannan083</groupId>
+	    <artifactId>map-spring-boot-starter</artifactId>
+	    <version>Tag</version>
+	</dependency>
+```
+## V2.0.0
 基于springboot 2.1.6.RELEASE  
 
 百度  
