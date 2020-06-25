@@ -1,4 +1,4 @@
-# map-spring-boot-starter 1.0.0
+# map-spring-boot-starter 2.0.0
 基于springboot 2.1.6.RELEASE  
 
 百度  
