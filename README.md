@@ -1,7 +1,7 @@
 # map-spring-boot-starter
 使用：  
 Step 1. Add the JitPack repository to your build file  
-<repositories>  
+\<repositories\>  
 	<repository>  
 	    <id>jitpack.io</id>  
 	    <url>https://jitpack.io</url>  
