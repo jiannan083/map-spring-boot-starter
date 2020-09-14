@@ -22,8 +22,8 @@ Step 3. "application.properties" use
 bfay.map.baidu-key=
 bfay.map.amap-key=
 ```
-## 2.0.4
-基于springboot 2.1.6.RELEASE  
+## 2.1.0
+基于springboot 2.3.2.RELEASE  
 
 百度：  
 百度地图开放平台 --> 开发文档 --> 服务接口 --> Web服务API  
